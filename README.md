@@ -46,3 +46,4 @@ The user can read data from the list, or click on an item to open the Detail Scr
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@Antonio725](https://github.com/Antonio725)
+- All images and icons in the project, including the logo icon on the top of this README, belong to Icons8 & Unsplash.

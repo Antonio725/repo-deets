@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
+  <a href="https://img.icons8.com/nolan/344/github.png" rel="noopener">
  <img width=200px height=200px src="https://img.icons8.com/nolan/344/github.png" alt="Project logo"></a>
 </p>
 

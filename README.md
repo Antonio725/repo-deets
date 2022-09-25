@@ -21,7 +21,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This app was made as a task for Ingemark. All needed info can be found below.
+An iOS app created in SwiftUI. GitHub's official API was used to create the application, alongside other packages.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
